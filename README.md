@@ -10,3 +10,4 @@ Lisans bitirme projemi, "Patlayıcıların Çevresel Etkilerinin Simülasyon Ort
 
 [![Linkedin Badge](https://img.shields.io/badge/RESULSILAY-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/resulsilay/)
 [![Medium Badge](https://img.shields.io/badge/RESULSILAY-000?style=for-the-badge&logo=medium)](https://resulsilay.medium.com/)
+![](https://komarev.com/ghpvc/?username=ResulSilay&color=000000&style=for-the-badge&label=VIEWS)
