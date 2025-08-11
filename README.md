@@ -27,7 +27,3 @@ I thrive in collaborative environments, enjoy solving complex problems, and am c
 [![ResearchGate Badge](https://img.shields.io/badge/Researchgate-000?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Resul-Silay)
 [![Android Badge](https://img.shields.io/badge/android-000?style=for-the-badge&logo=android)](https://www.linkedin.com/in/resulsilay/)
 [![iOS Badge](https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=apple)](https://www.linkedin.com/in/resulsilay/)
-
-### Open Source Project
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ResulSilay&repo=jenci&border_color=3DDC84&bg_color=0D1117&title_color=3DDC84&text_color=3DDC84&icon_color=3DDC84)](https://github.com/ResulSilay/jenci)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ResulSilay&repo=EEA&border_color=0066cb&bg_color=0D1117&title_color=0066cb&text_color=0066cb&icon_color=0066cb)](https://github.com/ResulSilay/EEA)
