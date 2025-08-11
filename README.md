@@ -1,21 +1,24 @@
-### Hello 👋
+### Hi 👋🏻
 
 <!--
 **ResulSilay/ResulSilay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a Software Engineer with experience in native mobile application development for both Android and iOS platforms. I have worked on architectural design and development phases in projects with a focus on defense industry, telecommunications, education, artificial intelligence, and image processing, serving millions of users. I have also been involved in personal and freelance projects.
+With over 6 years of experience designing and delivering scalable, secure, and user-focused mobile applications, I specialize in building robust, maintainable, and testable architectures leveraging Kotlin, Modular Architecture, Jetpack Compose, Coroutines, Flow, Dagger Hilt, Koin, Gradle, and Kotlin Multiplatform (KMP). I use tools like Detekt and MockK to ensure code quality and reliability.
 
-Below, you can find more details about specific skills and experiences:
+I have contributed to key fintech domains such as FAST payments, Open Banking, QR transactions, international transfers, and KYC processes — delivering scalable and secure solutions impacting millions of users.
 
-- I have worked on projects with high user interaction, including personal projects published on Google Play and the App Store.
-- In Android development, I have experience with Kotlin, Java, Jetpack, and Jetpack Compose, and I have worked with software design patterns such as MVVM, MVI, and MVP.
-- For iOS development, I have experience with Swift and SwiftUI, and I have worked with software design patterns including VIPER, MVC, and MVVM.
-- I have worked on a Mobile Device Management (MDM) project using Android DevicePolicyAPI.
-In the Back-End, I have experience with RESTful API services, .NET CORE, and Spring Boot.
-- I completed my undergraduate thesis on 'Modeling the Environmental Effects of Explosives in a Simulation Environment' using .NET WPF technology for simulation.
+My expertise includes advanced mobile technologies such as OCR, NFC, face and object detection with ML Kit, and Mobile Device Management (MDM) using Android DevicePolicy API. I am proficient in iOS development with Swift and SwiftUI, employing design patterns like VIPER, MVC, and MVVM to create seamless cross-platform experiences.
 
-In software and design projects, I prioritize developing high-quality software with a focus on SOLID principles, software architectures, clean code, project continuity, testability, stability, and user experience.
+I apply Clean Architecture, MVVM, and SOLID principles to produce maintainable and high-performance codebases. Security is a top priority; I implement advanced measures including root detection, Proguard/Dexguard obfuscation, and anti-hooking techniques to safeguard applications.
+
+Leveraging Kotlin Multiplatform (KMP), I share business logic across Android and iOS, enhancing development efficiency without compromising quality.
+
+Additionally, I develop applications for Android Auto, enhancing the in-car user experience by integrating navigation, media, and driving-related functionalities. 
+
+In addition to mobile development, I have backend experience with RESTful APIs using .NET Core and Spring Boot. My master's thesis focused on ‘cTRUST,’ a novel security mechanism enhancing secure communication between mobile applications and API services.
+
+I thrive in collaborative environments, enjoy solving complex problems, and am committed to continuous learning and delivering innovative, sustainable, user-centric solutions.
 
 [![Github Badge](https://img.shields.io/badge/>-000?style=for-the-badge&logo=github)](https://www.linkedin.com/in/resulsilay/)
 ![](https://komarev.com/ghpvc/?username=ResulSilay&color=000000&style=for-the-badge&label=VIEWS)
